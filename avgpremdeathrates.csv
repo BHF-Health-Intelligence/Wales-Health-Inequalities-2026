@@ -1,0 +1,67 @@
+Gender,Area,weighting_type,asdr,death_volumes,wimd_rank
+Female,Blaenau Gwent,Under 75,93.37915492,30,1
+Female,Bridgend,Under 75,56.25305282,40.66666667,13
+Female,Caerphilly,Under 75,73.50022313,62.66666667,5
+Female,Cardiff,Under 75,51.42096061,70,14
+Female,Carmarthenshire,Under 75,53.27135387,57.33333333,4
+Female,Ceredigion,Under 75,41.53493295,18,16
+Female,Conwy,Under 75,55.14799696,36.66666667,15
+Female,Denbighshire,Under 75,67.86480128,35.33333333,9
+Female,Flintshire,Under 75,49.02381333,39.33333333,20
+Female,Gwynedd,Under 75,29.90920923,18.66666667,11
+Female,Isle of Anglesey,Under 75,53.47028611,21.66666667,12
+Female,Merthyr Tydfil,Under 75,62.09449647,17.33333333,2
+Female,Monmouthshire,Under 75,31.91088845,17,22
+Female,Neath Port Talbot,Under 75,63.55172386,45.66666667,3
+Female,Newport,Under 75,70.25534341,47.33333333,10
+Female,Pembrokeshire,Under 75,42.28456243,30.33333333,7
+Female,Powys,Under 75,40.05416294,32.66666667,18
+Female,Rhondda Cynon Taf,Under 75,65.47528242,73.33333333,6
+Female,Swansea,Under 75,59.12365396,67,17
+Female,Torfaen,Under 75,67.16243703,31.33333333,8
+Female,Vale of Glamorgan,Under 75,29.70939701,21,21
+Female,Wrexham,Under 75,56.96942756,37.66666667,19
+Male,Blaenau Gwent,Under 75,148.1517817,47,1
+Male,Bridgend,Under 75,115.3189048,78,13
+Male,Caerphilly,Under 75,154.3378888,124,5
+Male,Cardiff,Under 75,118.8108716,155,14
+Male,Carmarthenshire,Under 75,114.2105578,111.3333333,4
+Male,Ceredigion,Under 75,99.70319549,38,16
+Male,Conwy,Under 75,106.1938997,65.66666667,15
+Male,Denbighshire,Under 75,118.8574469,59.33333333,9
+Male,Flintshire,Under 75,123.3186183,92,20
+Male,Gwynedd,Under 75,115.3953137,66.66666667,11
+Male,Isle of Anglesey,Under 75,117.8487922,46.33333333,12
+Male,Merthyr Tydfil,Under 75,166.0741533,43.66666667,2
+Male,Monmouthshire,Under 75,89.53864647,46,22
+Male,Neath Port Talbot,Under 75,138.5906201,92.33333333,3
+Male,Newport,Under 75,128.6937879,83.33333333,10
+Male,Pembrokeshire,Under 75,104.008267,70,7
+Male,Powys,Under 75,101.8821608,78,18
+Male,Rhondda Cynon Taf,Under 75,132.5310282,141,6
+Male,Swansea,Under 75,145.1743076,151.6666667,17
+Male,Torfaen,Under 75,134.5814941,57.33333333,8
+Male,Vale of Glamorgan,Under 75,98.69064804,61,21
+Male,Wrexham,Under 75,125.890348,78.66666667,19
+Total,Blaenau Gwent,Under 75,121.2541457,77.33333333,1
+Total,Bridgend,Under 75,86.98458922,121.3333333,13
+Total,Caerphilly,Under 75,111.0145377,184.6666667,5
+Total,Cardiff,Under 75,83.03900138,223,14
+Total,Carmarthenshire,Under 75,83.23395009,169.3333333,4
+Total,Ceredigion,Under 75,75.46080386,59.33333333,16
+Total,Conwy,Under 75,80.04138074,103,15
+Total,Denbighshire,Under 75,95.57694823,96.66666667,9
+Total,Flintshire,Under 75,87.15796841,133.6666667,20
+Total,Gwynedd,Under 75,76.1036516,90,11
+Total,Isle of Anglesey,Under 75,92.40082161,71.66666667,12
+Total,Merthyr Tydfil,Under 75,116.9614698,63,2
+Total,Monmouthshire,Under 75,59.25912654,62.33333333,22
+Total,Neath Port Talbot,Under 75,101.9046587,140,3
+Total,Newport,Under 75,97.93228822,129.6666667,10
+Total,Pembrokeshire,Under 75,76.89789996,104.6666667,7
+Total,Powys,Under 75,73.80482767,114,18
+Total,Rhondda Cynon Taf,Under 75,97.67955378,213.6666667,6
+Total,Swansea,Under 75,101.4942633,220,17
+Total,Torfaen,Under 75,99.48103627,88.33333333,8
+Total,Vale of Glamorgan,Under 75,66.08775148,86,21
+Total,Wrexham,Under 75,90.58915884,116,19
